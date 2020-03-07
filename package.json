@@ -4,7 +4,8 @@
   "description": "https://github.com/stevenrsewell/Homework12",
   "main": "employeetracker.js",
   "dependencies": {
-    "inquirer": "^7.0.4"
+    "inquirer": "^7.0.4",
+    "mysql": "^2.18.1"
   },
   "devDependencies": {},
   "scripts": {
