@@ -1,14 +1,17 @@
-# Homework 12 - Employee Tracker
-https://github.com/stevenrsewell/Homework12
+# Employee Management System - HW 12
+https://github.com/stevenrsewell/Employee-Tracker.git
 
-## Summary
-This application is a command line employee database. It allows the user to edit or update an employee or related field.
+
+This application is a command line content management system for an employee database. It contains three tables named "Department," "Role," and "Employee." The application should allow the user to add, view and update values in the database.  It is run with the command: <br> `node employeetracker.js`
 
 ## User Story
-AS A business owner ... I want to be able to view and manage the departments, roles, and employees in my company ... So that I can organize and plan my business
+AS A business owner ... I WANT to be able to view and manage the departments, roles, and employees in my company ... So THAT I can organize and plan my business
 
 ## Dependencies Used
-<li>Inquirer.js</li>
+<li>Node</li>
+<li>Inquirer</li>
+<li>MySQL</li>
 <li>Javascript</li>
 
-## Screenshots
+## Screenshot
+<img src="./Screenshot.gif">
